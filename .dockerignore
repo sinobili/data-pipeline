@@ -1,0 +1,11 @@
+.DS_Store
+.claude
+.venv-review
+.venv-test
+*.venv
+.venv
+__pycache__
+*.pyc
+output.csv
+case_files
+Data_Platform_Case.docx

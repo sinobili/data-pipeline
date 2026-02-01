@@ -1,0 +1,15 @@
+.DS_Store
+
+# Large dataset file
+output.csv
+
+# Virtualenvs
+.venv/
+.venv-*/
+
+# Local tooling dirs
+.claude/
+
+# Python cache
+__pycache__/
+*.pyc
